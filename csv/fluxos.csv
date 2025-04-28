@@ -1,0 +1,11 @@
+id,fluxo,grupo,status
+1,Memorando,1,1
+2,Circular,1,1
+3,Ofício,2,1
+4,Ouvidoria Samae,3,1
+5,Protocolo,4,1
+6,Proc. Administrativo,15,1
+7,Parecer,7,2
+8,Pedido de e-SIC,6,1
+9,Intimação,5,1
+10,Parecer,9,1
